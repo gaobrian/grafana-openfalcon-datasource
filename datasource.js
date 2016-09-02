@@ -258,7 +258,7 @@ System.register(['lodash', 'app/core/utils/datemath'], function(exports_1) {
                     continue;
                 }
                 targetValue = targets[target.refId];
-                targetValue = targetValue.replace(regex, nestedSeriesRegexReplacer);
+                //targetValue = targetValue.replace(regex, nestedSeriesRegexReplacer);
                 targets[target.refId] = targetValue;
                 if (!target.hide) {
                     hasTargets = true;
