@@ -64,7 +64,8 @@ git clone https://github.com/open-falcon/grafana-openfalcon-datasource fastweb-o
 
 ```
 cd /var/lib/grafana/plugins
-git clone https://github.com/open-falcon/grafana-openfalcon-datasource grafana-openfalcon-datasource
+
+git clone https://github.com/gaobrian/grafana-openfalcon-datasource grafana-openfalcon-datasource
 ```
 
 #### Update the plugin information
