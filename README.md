@@ -48,7 +48,7 @@ grunt
 #### Checkout the plugin
 ```
 cd $GRAFANA_PATH/public_gen/app/plugins/datasource
-git clone https://github.com/open-falcon/grafana-openfalcon-datasource openfalcon
+git clone https://github.com/gaobrian/grafana-openfalcon-datasource fastweb-openfalcon-datasource
 ```
 
 ### Start grafana-server
@@ -64,7 +64,8 @@ git clone https://github.com/open-falcon/grafana-openfalcon-datasource openfalco
 
 ```
 cd /var/lib/grafana/plugins
-git clone https://github.com/open-falcon/grafana-openfalcon-datasource grafana-openfalcon-datasource
+
+git clone https://github.com/gaobrian/grafana-openfalcon-datasource grafana-openfalcon-datasource
 ```
 
 #### Update the plugin information

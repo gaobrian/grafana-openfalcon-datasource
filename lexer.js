@@ -300,11 +300,11 @@ System.register(['lodash'], function(exports_1) {
                                 index += 1;
                                 return chr;
                             }
-                            if (code === 47){
+                            if (code === 47) {
                                 index += 1;
                                 return chr;
                             }
-                            if (code === 44){
+                            if (code === 44) {
                                 index += 1;
                                 return chr;
                             }
