@@ -56,10 +56,6 @@ git clone https://github.com/gaobrian/grafana-openfalcon-datasource fastweb-open
 ./bin/grafana-server
 ```
 
-### Method 2: Using grafana-cli
-
-`grafana-cli plugins install grafana-openfalcon-datasource`
-
 #### Checkout the plugin
 
 ```
