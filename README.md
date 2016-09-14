@@ -61,7 +61,7 @@ git clone https://github.com/gaobrian/grafana-openfalcon-datasource fastweb-open
 ```
 cd /var/lib/grafana/plugins
 
-git clone https://github.com/gaobrian/grafana-openfalcon-datasource grafana-openfalcon-datasource
+git clone https://github.com/gaobrian/grafana-openfalcon-datasource fastweb-openfalcon-datasource
 ```
 
 #### Update the plugin information
@@ -69,7 +69,7 @@ git clone https://github.com/gaobrian/grafana-openfalcon-datasource grafana-open
 Add the following into `$GRAFANA_PATH/conf/defaults.ini`:
 ```
 [plugin.openfalcon]
-path = /var/lib/grafana/plugins/grafana-openfalcon-datasource
+path = /var/lib/grafana/plugins/fastweb-openfalcon-datasource
 ```
 
 ## After Installation
